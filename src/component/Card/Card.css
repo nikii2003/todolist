@@ -1,0 +1,13 @@
+.card-container{
+    height: 150px;
+    width: 300px;
+    border: 1px solid;
+    padding: 20px;
+    margin-bottom: 10px;
+}
+.delete-icon{
+ position: absolute;
+ top: 5;
+ right: 5;
+ cursor: pointer;
+}
